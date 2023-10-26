@@ -17,11 +17,11 @@ The main contribution of this work can be formulated as follows:
 
 <tr>
 <td>Author - Track_name</td>
-<td><audio src="https://drive.google.com/file/d/1ght9UVHHCZ_RV3gtuNmr7Mfs1AtKBrZc/view?usp=drive_link"></td>
-<td><audio src="https://drive.google.com/file/d/1-Bzieuwb_6ZDjEcaI8xXxBL33sTr6M50/view?usp=drive_link"></td>
-<td><audio src="https://drive.google.com/file/d/1-B9NRM3YsvnxbFiuzAiwHUGi_qhxxU3E/view?usp=drive_link"></td>
-<td><audio src="https://drive.google.com/file/d/1-A-bTJ5wTH08A8_wUz0MdHzM8P7ZkR0v/view?usp=drive_link"></td>
-<td><audio src="https://drive.google.com/file/d/1-9IV8WreozU2rggQrXBCSGSChjFDtFI4/view?usp=drive_link"></td>
+<td><audio src="https://drive.google.com/file/d/1ght9UVHHCZ_RV3gtuNmr7Mfs1AtKBrZc/view?usp=drive_link" controls preload></audio></td>
+<td><audio src="https://drive.google.com/file/d/1-Bzieuwb_6ZDjEcaI8xXxBL33sTr6M50/view?usp=drive_link" controls preload></audio></td>
+<td><audio src="https://drive.google.com/file/d/1-B9NRM3YsvnxbFiuzAiwHUGi_qhxxU3E/view?usp=drive_link" controls preload></audio></td>
+<td><audio src="https://drive.google.com/file/d/1-A-bTJ5wTH08A8_wUz0MdHzM8P7ZkR0v/view?usp=drive_link" controls preload></audio></td>
+<td><audio src="https://drive.google.com/file/d/1-9IV8WreozU2rggQrXBCSGSChjFDtFI4/view?usp=drive_link" controls preload></audio></td>
 </tr>
 
 <!-- <tr>
