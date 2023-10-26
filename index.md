@@ -3,10 +3,13 @@ layout: default
 title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 ---
 ## Annotation
-The main contribution of this work can be formulated as follows:
-- item We propose the MSS model with separate U-Net-like branches for phase and magnitude processing.
-- item We propose a training pipeline with dynamic signal augmentation and compound loss functions.
-- item We show that the proposed model achieves perspective results and outperforms the significant amount of existing MSS solutions  on the vocals except top three, reaching 9.3 dB of SDR.
+<table>
+<tr>
+<td>Pepe</td>
+<td><img src="https://s32677.pcdn.co/wp-content/uploads/2023/05/bic_pepe_neutral_2.png.webp">
+</td>
+</tr>
+</table>
 
 
 ## Example
@@ -18,7 +21,7 @@ The main contribution of this work can be formulated as follows:
 <td>Original</td>
 <td>
 <audio controls preload>
-    <source src="https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy" type="audio/wav">
+    <source src="https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy" type="audio/mp3">
 </audio>
 </td>
 </tr>
@@ -27,7 +30,7 @@ The main contribution of this work can be formulated as follows:
 <td>Vocals</td>
 <td>
 <audio controls preload>
-    <source src="https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy" type="audio/wav">
+    <source src="https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy" type="audio/mp3">
 </audio>
 </td>
 </tr>
@@ -36,7 +39,7 @@ The main contribution of this work can be formulated as follows:
 <td>Drums</td>
 <td>
 <audio controls preload>
-    <source src="https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy" type="audio/wav">
+    <source src="https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy" type="audio/mp3">
 </audio>
 </td>
 </tr>
@@ -45,7 +48,7 @@ The main contribution of this work can be formulated as follows:
 <td>Other</td>
 <td>
 <audio controls preload>
-    <source src="https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy" type="audio/wav">
+    <source src="https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy" type="audio/mp3">
 </audio>
 </td>
 </tr>
@@ -54,7 +57,7 @@ The main contribution of this work can be formulated as follows:
 <td>Bass</td>
 <td>
 <audio controls preload>
-    <source src="https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy" type="audio/wav">
+    <source src="https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy" type="audio/mp3">
 </audio>
 </td>
 </tr>
@@ -90,10 +93,3 @@ The main contribution of this work can be formulated as follows:
 </table>
 
 
-<table>
-<tr>
-<td>Pepe</td>
-<td><img src="https://s32677.pcdn.co/wp-content/uploads/2023/05/bic_pepe_neutral_2.png.webp">
-</td>
-</tr>
-</table>
