@@ -4,13 +4,23 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 ---
 
 
-## Annotation
+## Abstract
 <table>
+
 <tr>
-<td>Pepe</td>
-<td><img src="https://s32677.pcdn.co/wp-content/uploads/2023/05/bic_pepe_neutral_2.png.webp">
+<td>Music Source Separation</td>
+<td>
+    <img src="https://source-separation.github.io/tutorial/_images/source_separation_io.png">
 </td>
 </tr>
+
+<tr>
+<td>Model</td>
+<td>
+    <img src="https://github.com/d-a-yakovlev/misc/blob/main/pics/pipeline(4).drawio.png">
+</td>
+</tr>
+
 </table>
 
 
@@ -63,7 +73,8 @@ https://drive.google.com/file/d/1dc1wz1Ujd22QcpJM_PA8pSgg5mNf72TX/view?usp=drive
 </tr>
 
 
-<!-- <tr><td>Author - Track_name</td></tr>
+<!--
+<tr><td>Author - Track_name</td></tr>
 
 <tr>
 <td>Original</td>
@@ -98,8 +109,17 @@ https://drive.google.com/file/d/1dc1wz1Ujd22QcpJM_PA8pSgg5mNf72TX/view?usp=drive
 <td>
 <audio controls preload src="">
 </td>
-</tr> -->
+</tr>
+-->
 
 </table>
 
 
+## Relief table
+<table>
+<tr>
+<td>Space Pepe sad, cause in space no music 🐸</td>
+<td><img src="https://s32677.pcdn.co/wp-content/uploads/2023/05/bic_pepe_neutral_2.png.webp">
+</td>
+</tr>
+</table>
