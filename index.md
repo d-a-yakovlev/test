@@ -27,45 +27,6 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 ## Examples
 <table>
 
-<!-- 
-<tr><td></td><td>Al James - Schoolboy Facination</td></tr>
-
-<tr>
-<td>Original</td>
-<td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy">
-</td>
-</tr>
-
-<tr>
-<td>Vocals</td>
-<td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1ght9UVHHCZ_RV3gtuNmr7Mfs1AtKBrZc">
-</td>
-</tr>
-
-<tr>
-<td>Drums</td>
-<td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1XJlOPQxsThvP94D4pDi-mBOkLU2Y_d7N">
-</td>
-</tr>
-
-<tr>
-<td>Other</td>
-<td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1XEYuqby9kEp6rVMaAHqSQy5mPRdqib4r">
-</td>
-</tr>
-
-<tr>
-<td>Bass</td>
-<td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1dc1wz1Ujd22QcpJM_PA8pSgg5mNf72TX">
-</td>
-</tr> -->
-
-
 <tr><td></td><td>Adele - Set Fire To The Rain</td></tr>
 
 <tr>
@@ -217,15 +178,16 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 </td>
 </tr>
 
-
 </table>
 
 
 ## Relief
 <table>
+
 <tr>
 <td>Space Pepe sad, cause in space no music</td>
 <td><img src="https://s32677.pcdn.co/wp-content/uploads/2023/05/bic_pepe_neutral_2.png.webp">
 </td>
 </tr>
+
 </table>
