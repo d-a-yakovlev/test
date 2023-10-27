@@ -24,18 +24,11 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 </table>
 
 
-## Example
+## Examples
 <table>
 
+<!-- 
 <tr><td></td><td>Al James - Schoolboy Facination</td></tr>
-
-<!-- Samples 
-https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy/view?usp=drive_link
-https://drive.google.com/file/d/1ght9UVHHCZ_RV3gtuNmr7Mfs1AtKBrZc/view?usp=drive_link
-https://drive.google.com/file/d/1XJlOPQxsThvP94D4pDi-mBOkLU2Y_d7N/view?usp=drive_link
-https://drive.google.com/file/d/1XEYuqby9kEp6rVMaAHqSQy5mPRdqib4r/view?usp=drive_link
-https://drive.google.com/file/d/1dc1wz1Ujd22QcpJM_PA8pSgg5mNf72TX/view?usp=drive_link 
--->
 
 <tr>
 <td>Original</td>
@@ -70,47 +63,160 @@ https://drive.google.com/file/d/1dc1wz1Ujd22QcpJM_PA8pSgg5mNf72TX/view?usp=drive
 <td>
 <audio controls preload src="https://drive.google.com/uc?export=open&id=1dc1wz1Ujd22QcpJM_PA8pSgg5mNf72TX">
 </td>
-</tr>
+</tr> -->
 
 
-<!--
-<tr><td>Author - Track_name</td></tr>
+<tr><td></td><td>Adele - Set Fire To The Rain</td></tr>
 
 <tr>
 <td>Original</td>
 <td>
-<audio controls preload src="">
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1zJpyW1fYxHKXDcDH9s5DiBCYiRpraDB3">
 </td>
 </tr>
 
 <tr>
 <td>Vocals</td>
 <td>
-<audio controls preload src="">
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1M1Yjr5qg2XQtrSpU0T2Ba5qsmyQ3pFGh">
 </td>
 </tr>
 
 <tr>
 <td>Drums</td>
 <td>
-<audio controls preload src="">
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1jdFGzcjjXmcX1sFAkf-fniuECvSia0lF">
 </td>
 </tr>
 
 <tr>
 <td>Other</td>
 <td>
-<audio controls preload src="">
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1D3yiUkxxKv_Zj5jZQqgGJsnYOIo7Xqgs">
 </td>
 </tr>
 
 <tr>
 <td>Bass</td>
 <td>
-<audio controls preload src="">
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1kPOlYfYTPJu-Np3eua-zcwHQdkN8A3Ym">
 </td>
 </tr>
--->
+
+
+<tr><td></td><td>AC/DC - Highway to Hell</td></tr>
+
+<tr>
+<td>Original</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1aWXYGeeJjfY3V6tzCLK5Jq1EcyNdpqbS">
+</td>
+</tr>
+
+<tr>
+<td>Vocals</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=14bA85Xh5Y8ndtUcH4PpHpLyn4GwSzLzW">
+</td>
+</tr>
+
+<tr>
+<td>Drums</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1DTn9hkkr-nHfcbkWYr6NmgXjGSXwPh1P">
+</td>
+</tr>
+
+<tr>
+<td>Other</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1qSyw6DFJLS-ePWtCIkmKl9Re7LbfPO7P">
+</td>
+</tr>
+
+<tr>
+<td>Bass</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=18EpDtYKW9bKhxXntKcT1pHOn6_69ntGT">
+</td>
+</tr>
+
+
+<tr><td></td><td>The Greatest Showman - The Greatest Show</td></tr>
+
+<tr>
+<td>Original</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1G5Aad12BrPycjAwfF-bRqwK-Gl2DTnvc">
+</td>
+</tr>
+
+<tr>
+<td>Vocals</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1d06bvxY8a0K3mZ87sleYcN8bxJplscV7">
+</td>
+</tr>
+
+<tr>
+<td>Drums</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1oRKpy-Cwb6X-UM0kFjMhWEbq4_Nj_G9Q">
+</td>
+</tr>
+
+<tr>
+<td>Other</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1PsevxVjnKqtPdb7oWA9RtsOhilOfwPSI">
+</td>
+</tr>
+
+<tr>
+<td>Bass</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=10kIo2x_4c6vVsKTrS-4Qctu9gCJ70leG">
+</td>
+</tr>
+
+
+<tr><td></td><td>MORGENSTERN</td></tr>
+
+<tr>
+<td>Original</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1yuTAJgXiWAICeKVVbzDH03V3VnA8Iv-1">
+</td>
+</tr>
+
+<tr>
+<td>Vocals</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1tuZQxABe6N80pRRZhTmdX6TqS93V3A9J">
+</td>
+</tr>
+
+<tr>
+<td>Drums</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1QdWE-bXhCEn6kdCYefgKU--jFGulJeqY">
+</td>
+</tr>
+
+<tr>
+<td>Other</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1gS71d50n2ZoV6bnEwPa7Z2tnNuG4DOmJ">
+</td>
+</tr>
+
+<tr>
+<td>Bass</td>
+<td>
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1lMNKfKuqxsplwy9oEIYSuy3qRzFOdrVL">
+</td>
+</tr>
+
 
 </table>
 
@@ -118,7 +224,7 @@ https://drive.google.com/file/d/1dc1wz1Ujd22QcpJM_PA8pSgg5mNf72TX/view?usp=drive
 ## Relief table
 <table>
 <tr>
-<td>Space Pepe sad, cause in space no music 🐸</td>
+<td>Space Pepe sad, cause in space no music</td>
 <td><img src="https://s32677.pcdn.co/wp-content/uploads/2023/05/bic_pepe_neutral_2.png.webp">
 </td>
 </tr>
