@@ -18,7 +18,14 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 <tr>
 <td>Model</td>
 <td>
-    <img src="assets/pics/pipeline.drawio.png">
+    <iframe
+    src="assets/pics/pipeline.pdf"
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%">
+    </iframe>
+
 </td>
 </tr>
 
