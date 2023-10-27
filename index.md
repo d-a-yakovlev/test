@@ -188,7 +188,7 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 <table>
 
 <tr>
-<td>Space Pepe sad, cause in space no music 🐸</td>
+<td>Space Pepe sad, because in space no music 🐸</td>
 <td><img src="https://s32677.pcdn.co/wp-content/uploads/2023/05/bic_pepe_neutral_2.png.webp">
 </td>
 </tr>
