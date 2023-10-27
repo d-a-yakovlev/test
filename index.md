@@ -17,7 +17,7 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 ## Example
 <table>
 
-<tr><td>Al James</td><td>Schoolboy Facination</td></tr>
+<tr><td>[1]</td><td>Al James - Schoolboy Facination</td></tr>
 
 <!-- Samples 
 https://drive.google.com/file/d/1iclXFFKo_i9Z-61WV8UNG_qzdRLDgqPy/view?usp=drive_link
