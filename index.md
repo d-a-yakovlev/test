@@ -155,28 +155,28 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 <tr>
 <td>Vocals</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1tuZQxABe6N80pRRZhTmdX6TqS93V3A9J">
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1Ce3ZjqWg6QWcxpUee6USInigZpwXp94q">
 </td>
 </tr>
 
 <tr>
 <td>Drums</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1QdWE-bXhCEn6kdCYefgKU--jFGulJeqY">
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1mRtZafgD98USBj5omOXxLCiZl1SmxH87">
 </td>
 </tr>
 
 <tr>
 <td>Other</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1gS71d50n2ZoV6bnEwPa7Z2tnNuG4DOmJ">
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1Tjl0F89Q701Fp-4RC4f3bdepIQ0IMM02">
 </td>
 </tr>
 
 <tr>
 <td>Bass</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1lMNKfKuqxsplwy9oEIYSuy3qRzFOdrVL">
+<audio controls preload src="https://drive.google.com/uc?export=open&id=1rmZaWMH-dPqhc6veXcYvlRf0v8ERHxfF">
 </td>
 </tr>
 
