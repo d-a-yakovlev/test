@@ -148,35 +148,35 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 <tr>
 <td>Original</td>
 <td>
-<audio src="https://drive.google.com/uc?export=open&id=13q2jAyitTpLggeedYgvxt97laIQ1rfz6" controls="controls" preload="none" type="audio/wav"></audio>
+<audio controls="controls" preload="none" src="Korol@shut/original.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Vocals</td>
 <td>
-<audio controls="controls" preload="none" src="Korol@shut/original.wav" type="audio/wav"></audio>
+<audio controls="controls" preload="none" src="Korol@shut/vocals.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Drums</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1mRtZafgD98USBj5omOXxLCiZl1SmxH87">
+<audio controls="controls" preload="none" src="Korol@shut/drums.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Other</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1Tjl0F89Q701Fp-4RC4f3bdepIQ0IMM02">
+<audio controls="controls" preload="none" src="Korol@shut/other.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Bass</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1rmZaWMH-dPqhc6veXcYvlRf0v8ERHxfF">
+<audio controls="controls" preload="none" src="Korol@shut/bass.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
