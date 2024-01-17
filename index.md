@@ -34,35 +34,35 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 <tr>
 <td>Original</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1zJpyW1fYxHKXDcDH9s5DiBCYiRpraDB3">
+<audio controls="controls" preload="none" src="Adele/original.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Vocals</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1M1Yjr5qg2XQtrSpU0T2Ba5qsmyQ3pFGh">
+<audio controls="controls" preload="none" src="Adele/vocals.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Drums</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1jdFGzcjjXmcX1sFAkf-fniuECvSia0lF">
+<audio controls="controls" preload="none" src="Adele/drums.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Other</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1D3yiUkxxKv_Zj5jZQqgGJsnYOIo7Xqgs">
+<audio controls="controls" preload="none" src="Adele/other.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Bass</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1kPOlYfYTPJu-Np3eua-zcwHQdkN8A3Ym">
+<audio controls="controls" preload="none" src="Adele/bass.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
@@ -72,35 +72,35 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 <tr>
 <td>Original</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=12GOgW8lyHbwVjPvCFP8MLO1kMOr55TBq">
+<audio controls="controls" preload="none" src="ACDC/original.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Vocals</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1X3NEMMFAsmhyT35ZgjoF3qJkaBosvk-Y">
+<audio controls="controls" preload="none" src="ACDC/vocals.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Drums</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1olFbjRZhTCBrAVDSIYM37FDTvAItJGhT">
+<audio controls="controls" preload="none" src="ACDC/drums.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Other</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=14t7l8l809rYyhQq3_vIgnvh7_Ae_UCxs">
+<audio controls="controls" preload="none" src="ACDC/other.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Bass</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1AMM6CJLL_z6-KWNrjNm9be1Crmmw7_Cw">
+<audio controls="controls" preload="none" src="ACDC/bass.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
@@ -110,35 +110,35 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 <tr>
 <td>Original</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1c4NFpCNyheTtnyUn4QBrfAjhFxg1IjQt">
+<audio controls="controls" preload="none" src="Greatest_Showman/original.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Vocals</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1yqYQ-YwD8SMRwwA8eeo6h3s5CAI2FQQD">
+<audio controls="controls" preload="none" src="Greatest_Showman/vocals.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Drums</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1mcpV6L22bGOsUCMGGB2o0EvA2uTuDYpH">
+<audio controls="controls" preload="none" src="Greatest_Showman/drums.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Other</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1qM7acOiO2hAVwhLx2y0G6yuxb6TQcZ-D">
+<audio controls="controls" preload="none" src="Greatest_Showman/other.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
 <tr>
 <td>Bass</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1965IloKCwo8jtpcuwUsZGazrGzGzIUAf">
+<audio controls="controls" preload="none" src="Greatest_Showman/bass.wav" type="audio/wav"></audio>
 </td>
 </tr>
 
