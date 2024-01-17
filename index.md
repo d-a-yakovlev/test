@@ -148,7 +148,7 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 <tr>
 <td>Original</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1lHccOQ0kSmM7RDxSsicA7KJyHwN4YYhf">
+<audio controls preload src="/Korol@shut/original.wav">
 </td>
 </tr>
 
