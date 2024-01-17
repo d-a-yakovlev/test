@@ -155,7 +155,7 @@ title: "PM-Unet: Phase and Magnitude aware model for Music Source Sepearation"
 <tr>
 <td>Vocals</td>
 <td>
-<audio controls preload src="https://drive.google.com/uc?export=open&id=1Ce3ZjqWg6QWcxpUee6USInigZpwXp94q">
+<audio controls="controls" preload="none" src="https://drive.google.com/uc?export=open&id=1Ce3ZjqWg6QWcxpUee6USInigZpwXp94q">
 </td>
 </tr>
 
